@@ -12,5 +12,7 @@ The focus of this challenge is to determine your level of expertise and to show 
 # Directions
 - Clone or fork this repository.
 - Create a branch for your submission
+- Install npm packages with this command: npm install
+- To serve up the site locally run this command: npm start
 - Commit as often as you like.
 - When you are finished, open a pull request and email either Pat or Kehnon.

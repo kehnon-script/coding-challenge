@@ -2,6 +2,10 @@
 
 The focus of this challenge is to determine your level of expertise and to show off your strong points. The goal is to quickly develop a simple web app using Angular 2/4. You can choose to use any packages you want and the UI design is completely up to you. Good luck and show us what you got, but most importantly have fun!
 
+# Api Endpoint
+
+https://pokeapi.co/
+
 # Goals
 - Level One - Create a page that displays 9 Pokemon in a 3 x 3 grid. I should show at least the name, type, and image sprite of that Pokemon.
     - Extra points for pagination, filtering, or search.
